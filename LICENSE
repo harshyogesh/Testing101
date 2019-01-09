@@ -22,6 +22,7 @@ FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 OTHER DEALINGS IN THE SOFTWARE.
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 commit 1 in the third branch from master
 commit 2 in the third branch from master
 =======
@@ -32,3 +33,7 @@ commit 2 in the second branch from master
 commit 1 in the first branch from master
 commit 2 in the first branch from master
 >>>>>>> FirstNewBranchFromMaster
+=======
+Commit 1 in first branch from firstbranchfrommaster
+Commit 2 in first branch from firstbranchfrommaster
+>>>>>>> FirstFromFirst
