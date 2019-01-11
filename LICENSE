@@ -38,3 +38,5 @@ Commit 1 in first branch from firstbranchfrommaster
 Commit 2 in first branch from firstbranchfrommaster
 >>>>>>> FirstFromFirst
 new fast forward branch , updating in ffbranch that takes it 1 commit further than master
+
+2nd time - new fast forward branch , updating in ffbranch that takes it 1 commit further than master
